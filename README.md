@@ -1,2 +1,2 @@
-# EEEEEE
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE created for understanding git bash lol
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
